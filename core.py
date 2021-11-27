@@ -6,4 +6,3 @@ import hazm
 from autocorrect import spell
 
 dataset = "NLP datatset title.xlsx"
-
