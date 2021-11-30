@@ -4,7 +4,7 @@ import numpy as np
 import autocorrect as ac
 from autocorrect import spell
 from __future__ import unicode_literals
-from hazm import *
+import hazm
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
